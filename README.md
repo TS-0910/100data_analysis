@@ -12,5 +12,6 @@
 [ノック10](https://github.com/TS-0910/100fungos_1st/blob/main/%E3%83%8E%E3%83%83%E3%82%AF10-checkpoint.ipynb)<br/>
 
 # 第二章<br/>
-[ノック11](https://github.com/TS-0910/100fungos/blob/main/%E3%83%8E%E3%83%83%E3%82%AF11-checkpoint.ipynb)
+[ノック11](https://github.com/TS-0910/100fungos/blob/main/%E3%83%8E%E3%83%83%E3%82%AF11-checkpoint.ipynb)<br/>
+[ノック12](https://github.com/TS-0910/100fungos/blob/main/%E3%83%8E%E3%83%83%E3%82%AF12-checkpoint.ipynb)
 
